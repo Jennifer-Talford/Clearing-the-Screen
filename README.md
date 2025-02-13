@@ -1,3 +1,5 @@
+Program created for CISP 2410. Created on OCt 14th, 2024.
+
 Simple Addition 1:
 Critical Thought Process:
 Program needs to clear screen and output prompt in center of screen. Program prompt asks for 2 integers, adds them, then outputs values below center first prompt.
